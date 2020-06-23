@@ -100,9 +100,9 @@ Merges   **imdb_title_basics_gz**   with information data from  **df_imdb_financ
 
 We can see no significant divergence in the composition of the distribution curves. 
 
-![image.png](attachment:image.png)
+![Distr.png](attachment:Distr.png)
 
-![image.png](attachment:image.png)
+![distr%20prof%20vs%20movies.png](attachment:distr%20prof%20vs%20movies.png)
 
 However, we can note that:
 - the bottom 25% of professionals present worse financial performances than the bottom 25% of all movies. We can thus infer that low performing professionals have an outsized negative impact on the financial performance of a movie
@@ -110,21 +110,21 @@ However, we can note that:
 
 ## Do directors, actors and producers have the same impact on the financial results of a movie?
 
-![image.png](attachment:image.png)
+![professions.png](attachment:professions.png)
 
 The charts show an almost identical distribution for all three professions. From that we can infer that no professional has a larger impact on the financial result than the others
 
 ## Are any genres more risky than other in terms of financial performance?
 
-![image.png](attachment:image.png)
+![Fail%20Rate%20genres.png](attachment:Fail%20Rate%20genres.png)
 
 The data show that some genres are more risky then others. A Drama is roughly 4 times more likely to fail than a documentary, for example
 
 ## What part does genre play in the financial results of a movie?
 
-![image.png](attachment:image.png)
+![Genres%20profit%20margin.png](attachment:Genres%20profit%20margin.png)
 
-![image.png](attachment:image.png)
+![genres%20boxplot.png](attachment:genres%20boxplot.png)
 
 **Conclusion**
 - The value creation is not equal among all genre types
